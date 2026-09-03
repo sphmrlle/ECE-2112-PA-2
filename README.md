@@ -86,7 +86,7 @@ above_mean = S[S > S_mean]
 Thank you for reading!
 
 For reference of the main python program for Programming Assignment 1, kindly click the link and download:
-https://github.com/sphmrlle/ECE-2112-PA-1/blob/main/PA1_Quizon.ipynb 
+https://github.com/sphmrlle/ECE-2112-PA-2
 
 ### **README file Version History:**
 
